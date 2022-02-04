@@ -25,6 +25,6 @@
       6. Create a Custom user model for the project.
       7. Start making the urls for the project.
       8. Payment using stripe is taken over.
-      9. Deployed the project to the server using python anywhere.
+      
      
     
